@@ -1,11 +1,10 @@
 import React from "react";
 
 const Event = (props) => {
-  return (<div>
+  return (
     <td className= "Event">
         <h5> Test Event Name</h5>
-    </td>
-  </div>)
+    </td>)
 }
 
 export default Event;
